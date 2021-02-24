@@ -1,0 +1,18 @@
+<?xml version='1.0'?>
+<filesystem>    
+    <directory></directory>
+    <file>
+        <filetype value="d"/>
+        <ownership>evad</ownership>
+        <permissions type="owner" value="rwx"/>
+        <permissions type="group" value="rwx"/>
+        <permissions type="others" value="r-x"/>
+        <size>8192</size>
+        <time-stamp>0ct 29 2001</time-stamp>
+        <name>play</name>
+        <inode-number value="cc3591">
+        <owner-id></owner-id>
+        <group-id></group-id>
+    </file>   
+</filesystem>
+

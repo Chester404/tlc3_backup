@@ -1,0 +1,28 @@
+<?xml version='1.0'?>
+<!-- <!DOCTYPE expense[
+<!ELEMENT expense (date, amount, paymentMethod, expenseType)>
+]>
+<expense>
+</expense> -->
+
+<report>
+    <result>  
+        <trip>         
+        <expensetype value="meal"/>  
+        <amount>500</amount>
+        <paymenttype type="credit card" value="visa" />   
+        <startdate>01/02/2019</startdate>
+        <enddate>03/04/2019</enddate>
+    </trip>
+     </result> 
+</report>
+
+
+<!-- //report
+// results
+// expense
+// dates
+// paid by Credit-card(Visa) 
+// expense 
+// expense type
+// amount -->
