@@ -1,0 +1,10 @@
+to create a file with vi or vim
+use - vi <fileName> / vim <fileName>
+use - i for interactive
+use - ':' to enter command mode / wq for write snd quit
+esc - exit interactive mode
+
+Note: to change permissions you will have to be mindful of the command lines
+to use chmod with the "+,-, =" make sure to use it with the alphabetic permission options
+eg. chmod u+rw,g-w <fileName> //this gives the user read, write access and the group write access
+
